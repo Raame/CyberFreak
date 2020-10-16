@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+    margin:0px;
+    text-align: center;
+}
+
+.freak {
+    color:#7cbd1e;
+    font-family: 'Audiowide', cursive;
+    margin-top: 100px;
+}
+
+.ed{
+    text-align: center;
+    width: 15%;
+      display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 75px;
+}
+
+.enter{
+      font-family: 'Audiowide', cursive;
+      color:#900d0d;
+      text-decoration: none;
+}
+
+.enter:hover {
+color: #150485;
+} 
+
+.hyper{
+    color: #150485;
+}
+
+h3{
+    color: #150485;
+    opacity: 0.6;
+margin-top: 200px;
+}
